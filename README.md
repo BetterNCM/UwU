@@ -25,7 +25,7 @@ BetterQQNT 不保证在所有版本上的通用可用性，也不保证安全性
 BetterQQNT 可能将于未来的某一天突然跑路。
 
 # 功能
-  - Koishi 机器人
+  - [Koishi 机器人](https://github.com/koishijs/koishi)
   - 主题
   - RedProtocol 机器人协议
   - 自动执行 Pangu.js
@@ -43,16 +43,18 @@ BetterQQNT 可能将于未来的某一天突然跑路。
 
 # 预览
 
-![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/4b166ea9-d8fb-4b0d-8d1e-ef754f0d1eda)
+![image](https://github.com/BetterQQNT/BetterQQNT/assets/66859419/4b166ea9-d8fb-4b0d-8d1e-ef754f0d1eda)
 
-![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/0057c818-a4ed-4266-a1eb-e779cdfeee8b)
+![image](https://github.com/BetterQQNT/BetterQQNT/assets/66859419/0057c818-a4ed-4266-a1eb-e779cdfeee8b)
 
 # 安装
 ### 手动安装
 将 `better-qqnt.dll` 重命名为 `version.dll` 并放入 QQNT 安装文件夹。
 
 ### 使用 BetterQQNT-Launcher
-在 Koishi 中安装插件 `qq-launcher` 或直接使用 https://github.com/koishi-nt/BetterQQNT-Launcher
+两种方式：
+- 在 Koishi 中安装插件 `qq-launcher` 并启用
+- 直接使用 https://github.com/BetterQQNT/BetterQQNT-Launcher
 
 ### 使用 BetterUniversal-Installer
 施工中
@@ -90,4 +92,4 @@ MacOSX 由于过于麻烦，在可预期的未来内不会被支持。
 - 任意上下文代码执行
 - ……
 
-![image](https://github.com/koishi-nt/BetterQQNT/assets/66859419/17ee6805-0422-4568-a865-d1dfb23d408f)
+![image](https://github.com/BetterQQNT/BetterQQNT/assets/66859419/17ee6805-0422-4568-a865-d1dfb23d408f)
