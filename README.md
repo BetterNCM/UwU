@@ -2,9 +2,8 @@
 <h1 align="center">BetterQQNT</h1>
 <h4 align="center">Electron 客户端插件管理器</h4>
 
-BetterUniverse for QQNT/Electron ( 下文简称 BetterQQNT )。
-
-由于可预期的 QQNT 安全性更新，BetterQQNT 将最早在第一个 QQNT For Windows 正式版（无白名单版本）推出后开源。
+**关于更新**
+为减少传播，在安全性更新 (14060) 后的一段时间内，BetterQQNT 将不会在 Github 更新。
 
 目前此仓库仅作文档及版本发布用。
 
