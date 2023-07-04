@@ -61,14 +61,9 @@ BetterQQNT 可能将于未来的某一天突然跑路。
 ### 手动安装
 
 ### 使用 BetterQQNT-Launcher
-两种方式：
 - 在 Koishi 中安装插件 `qq-launcher` 并启用
-- 直接在 [BetterQQNT-Launcher](https://github.com/BetterQQNT/BetterQQNT-Launcher) Release 中下载并打开 bqqenv.exe
-
 
 #### 使用 Dll Hijacking
-##### x86
-将 `better-qqnt.dll` 重命名为 `version.dll` 并放入 QQNT 安装文件夹。
 ##### x64
 将 `better-qqnt-x64.dll` 重命名为 `version.dll` 并放入 QQNT 安装文件夹。
 
